@@ -67,4 +67,5 @@ All data transformation steps were documented in the **`Data_Log`** sheet:
 ---
 
 ## 👥 Connect & Feedback
-If you have any feedback or questions regarding this project, feel free to reach out via [koleoso-adeola(https://linkedin.com)!
+If you have any feedback or questions regarding this project, feel free to reach out via [koleoso-adeola(
+https://www.linkedin.com/in/koleoso-adeola-32762388?
